@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let anos = [1990, 1995, 2000, 2005];
+let numeros = [1, 2, 3, 4, 5];
+let idades = [30, 31, 32, 33];
+let valores = [1, 'dois', 3, 'quatro'];
+anos.push(2010);
+anos.unshift(1985);
+numeros.pop();
+numeros.shift();
+let jogos = ['Mario', 'Zelda', 'Metroid'];
+console.log(anos);
+console.log(numeros);
+console.log(jogos);

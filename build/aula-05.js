@@ -1,0 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let programacao = ["Flutter", "Javascript", "PHP"];
+let anos = [2020, 2021, 2022];
+let carros;
+let programacao2 = ["Assembly", "Cobol", 1950, true];
+let programacao3 = ["Assembly", "Cobol", 1000, 8.2, false];
+carros = "BMW";
+carros = 2015;
+programacao.push("Java");
+anos.push(2019);
+console.log(programacao);
+console.log(anos);
+console.log(carros);
+console.log(programacao2);
+console.log(programacao3);
