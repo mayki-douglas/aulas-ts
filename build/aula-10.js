@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let variavel;
+variavel = null;
+console.log(variavel);
+let variavel2;
+console.log(variavel2);
+let variavel3 = variavel;
+let variavel4 = variavel3;
+console.log(variavel3);
